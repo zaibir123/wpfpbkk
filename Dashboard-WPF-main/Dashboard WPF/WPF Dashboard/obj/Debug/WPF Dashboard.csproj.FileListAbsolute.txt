@@ -1,0 +1,24 @@
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\bin\Debug\WPF Dashboard.exe.config
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\bin\Debug\WPF Dashboard.exe
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\bin\Debug\WPF Dashboard.pdb
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.csproj.AssemblyReference.cache
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.csproj.SuggestedBindingRedirects.cache
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\Theme\MenuButtonTheme.baml
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\Theme\TexboxTheme.baml
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\MainWindow.g.cs
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\MVVM\View\DiscoveryView.g.cs
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\MVVM\View\HomeView.g.cs
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\App.g.cs
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard_MarkupCompile.cache
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard_MarkupCompile.lref
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\App.baml
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\MainWindow.baml
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\MVVM\View\DiscoveryView.baml
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\MVVM\View\HomeView.baml
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.g.resources
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF_Dashboard.Properties.Resources.resources
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.csproj.GenerateResource.cache
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.csproj.CoreCompileInputs.cache
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.exe
+D:\PBKK\WPF-Dashboard-master\WPF Dashboard\obj\Debug\WPF Dashboard.pdb
